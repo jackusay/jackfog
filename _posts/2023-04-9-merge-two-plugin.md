@@ -1,3 +1,6 @@
+---
+published: false
+---
 
 How to merge two command class?
 
@@ -67,5 +70,8 @@ Traceback (most recent call last):
 NameError: name 'Command' is not defined
 ERROR: Exception in CudaText for cuda_find_in_filesX.close_console: NameError: name 'Command' is not defined
 ```
+
+ref https://stackoverflow.com/questions/15720593/python-two-modules-and-classes-with-the-same-name-under-different-packages
+https://stackoverflow.com/questions/42859849/python-importing-two-modules-that-have-the-same-class-name
 
 cudatext.
