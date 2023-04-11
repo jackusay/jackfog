@@ -14,7 +14,7 @@ bottom_panel.py:
 class Command:
 ```
 
-__init__.py:
+`__init__.py`:
 ```py
 from .bottom_panel import *
 from .cd_fif4 import *
@@ -43,7 +43,7 @@ class Command_B(Command):
         super().__init__()
 ```
 
-__init__.py:
+`__init__.py`:
 ```py
 from .bottom_panel import *
 ```
