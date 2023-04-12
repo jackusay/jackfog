@@ -1,3 +1,15 @@
+search: insert
+
+```
++Search "insert". Report with [styles].
+	<tab:1/Untitled1>: #5
+		<  6>: //coll.insert(std::make_pair("otto",22.3));
+		< 57>:     void insert(const T1& k, const T2& v)
+		< 93>:     m_MyMap.insert(1, "abc");
+		< 94>:     m_MyMap.insert(2, "def");
+		< 95>:     m_MyMap.insert(3, "ghi");
+```
+
 get_carets: [(20, 2, -1, -1)]
 ed.attr(app.MARKERS_GET, y=2): 
 [(0, 16, 2, 6, 536870911, 536870911, 2105376, 0, 0, 0, 0, 0, 4, 0, -1, 0), 
