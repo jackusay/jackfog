@@ -215,3 +215,5 @@ prose:
             - name: "Bananas"
               value: "bananas"
   media: "img"
+  siteurl: "https://jackusay.github.io/jackfog"
+  
