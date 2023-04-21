@@ -214,3 +214,4 @@ prose:
               value: "py"
             - name: "Bananas"
               value: "bananas"
+  media: "img"
