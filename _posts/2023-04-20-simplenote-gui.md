@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## AlephNote
 
@@ -16,4 +16,3 @@ published: false
 ![](/img/2023-04-21 00_30_57-screen.jpg)
 
 ![20090404_8e28b4423981a678b9beXIQbMkiM5TFm.jpg]({{site.baseurl}}/img/20090404_8e28b4423981a678b9beXIQbMkiM5TFm.jpg)
-
